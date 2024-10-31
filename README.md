@@ -1,5 +1,6 @@
 # 💫 About Me:
-¡Hola! Soy un desarrollador Fullstack con una gran pasión por crear aplicaciones robustas y eficientes. Me gustan mucho Java y PHP (especialmente con Laravel), y disfruto trabajando en ambos lados del desarrollo: frontend y backend. Siempre estoy buscando nuevos desafíos y oportunidades para mejorar mis habilidades y aprender algo nuevo en el camino.<br>Hi there! I'm a Fullstack Developer with a strong passion for building robust and efficient applications. I really enjoy working with Java and PHP (especially with Laravel) and love working on both frontend and backend projects. I’m always looking for new challenges and opportunities to improve my skills and learn something new along the way.<br><br>
+¡Hola! Soy un desarrollador Fullstack con una gran pasión por crear aplicaciones robustas y eficientes. Me gustan mucho Java y PHP (especialmente con Laravel), y disfruto trabajando en ambos lados del desarrollo: frontend y backend. Siempre estoy buscando nuevos desafíos y oportunidades para mejorar mis habilidades y aprender algo nuevo en el camino.
+<br>Hi there! I'm a Fullstack Developer with a strong passion for building robust and efficient applications. I really enjoy working with Java and PHP (especially with Laravel) and love working on both frontend and backend projects. I’m always looking for new challenges and opportunities to improve my skills and learn something new along the way.<br><br>
 
 
 ## 🌐 Socials:
